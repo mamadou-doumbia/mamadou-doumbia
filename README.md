@@ -1,8 +1,8 @@
 ### Hi, I'm Mamadou Doumbia
 
-🎓 Math-Computer Science student at Faculty of Science of Bizerte, Tunisia.
+ Math-Computer Science student at Faculty of Science of Bizerte, Tunisia.
 
-💻 Currently learning:
+ Currently learning:
 
 * Python
 * C
@@ -10,15 +10,15 @@
 * Algorithms and Data Structures
 * Databases & UML
 
-🤖 Interested in:
+ Interested in:
 
 * Artificial Intelligence
 * Machine Learning
 * Software Development
 
-🚀 Currently working on improving my programming skills and building personal projects.
+ Currently working on improving my programming skills and building personal projects.
 
-📚 My goal is to continue my studies in Computer Science and Artificial Intelligence and develop real-world projects.
+ My goal is to continue my studies in Computer Science and Artificial Intelligence and develop real-world projects.
 
 ### 🛠️ Technologies
 
@@ -27,6 +27,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 📌 Featured Projects
+###  Featured Projects
 
 More projects coming soon...
